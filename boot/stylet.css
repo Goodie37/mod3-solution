@@ -1,0 +1,50 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'oxygen', sans-serif;
+}
+
+.navbar-light {
+    background-color: #f5b010;
+	width: 100%;
+}
+
+.wet {
+	
+	padding-bottom: 20px;
+	padding-top: 30px;
+}
+.eat {
+	text-align: center;
+	background-color: gray;
+
+
+}
+
+h3 {
+	padding-top: 10px;
+}
+
+.navbar-nav a:hover, a:focus  {
+	background-color: #61122f;
+}
+
+@media (max-width:720px) {
+	
+}
+
+#navbarNav {
+	align-items: center;
+	float: center;
+	padding-left: ;
+	font-weight: bold;
+	background-color: rgb(184, 131, 131);
+}
+
+.tem {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
